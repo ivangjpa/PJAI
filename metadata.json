@@ -1,0 +1,5 @@
+{
+  "name": "Creador de Personajes Imaginarios",
+  "description": "Una aplicación para generar imágenes de personajes imaginarios utilizando IA, personalizando atributos a través de formularios y listas desplegables.",
+  "requestFramePermissions": []
+}
